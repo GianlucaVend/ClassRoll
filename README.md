@@ -206,11 +206,13 @@ Project Link: [Here](https://github.com/GianlucaVend/ClassRoll)
 
 
 <!-- ACKNOWLEDGMENTS -->
+<!--
 ## Acknowledgments
 
 * []()
 * []()
 * []()
+-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
