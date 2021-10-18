@@ -154,7 +154,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
--  Abstart Data types
+-  Abstract Data types
 -  Classes and Objects
 -  Sructures
 <!--
