@@ -30,7 +30,7 @@
 <h3 align="center">ClassRoll Program</h3>
 
   <p align="center">
-    project_description
+    The Purpose of this project was to write a program for a professor who needs to maintain information on each student currently enrolled for a class.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -194,9 +194,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/GianlucaVend) - dev@gianlucavenditti.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/GianlucaVend/ClassRoll)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -226,5 +226,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/gianlucavenditti-/
 [product-screenshot]: images/screenshot.png
