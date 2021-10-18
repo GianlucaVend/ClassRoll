@@ -194,9 +194,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/GianlucaVend) - dev@gianlucavenditti.com
+For more information, please reach out - [@GianlucaVend](https://twitter.com/GianlucaVend) - dev@gianlucavenditti.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/GianlucaVend/ClassRoll)
+Project Link: [Here](https://github.com/GianlucaVend/ClassRoll)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
