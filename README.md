@@ -143,6 +143,7 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 A program for a professor who needs to maintain information on each student 
 currently enrolled in a class.
+learning the fundamentals of Classes and Objects: A class describes the contents of the objects that belong to it: it describes an aggregate of data fields (called instance variables), and defines the operations (called methods). object: an object is an element (or instance) of a class; objects have the behaviors of their class.
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
