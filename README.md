@@ -156,7 +156,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 -  Abstract Data types
 -  Classes and Objects
--  Sructures
+-  Structures
 <!--
     - [] Nested Feature
 -->
