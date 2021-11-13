@@ -158,6 +158,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 -  Abstract Data types
 -  Classes and Objects
 -  Structures
+-  Creating objects on the stack
 <!--
     - [] Nested Feature
 -->
